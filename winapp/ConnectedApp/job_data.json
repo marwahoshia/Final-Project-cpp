@@ -1,0 +1,902 @@
+[
+    {
+        "company": "Genpact",
+        "experience": "Freshers",
+        "id": 1,
+        "job_description": "In this role, you will be responsible to demonstrate innovation and intuition in identifying areas requiring operational adaptation and/or improvement. Active user of Internet and online applications.",
+        "job_type": "Full Time",
+        "location": "Gurugram",
+        "title": "Genpact  hiring fresher for customer service | gurugram"
+    },
+    {
+        "company": "American express",
+        "experience": "Fresher - 1 Years",
+        "id": 2,
+        "job_description": "The US Consumer Services organization is currently hiring for Analyst - New Data Innovation Analytics team within the US Consumer Analytics team who will drive the development of use cases to enable growth and competitive benchmarking leveraging bureau data, third party data and in-house modelling capabilities for the US Consumer portfolio.",
+        "job_type": "Full Time Work",
+        "location": "Gurugram",
+        "title": "American express  hiring fresher for analyst-data analytics | gurugram"
+    },
+    {
+        "company": "Hp enterprise",
+        "experience": "Fresher - 2 Years",
+        "id": 3,
+        "job_description": "High Performance Computing, AI and Labs is a critical element of HPE. We are focused on delivering innovative solutions that accelerate our customers’ digital transformation, enabling them to tackle their complex, and data-intensive workloads. Combining deep expertise and the development of the world’s most cutting-edge, high-performance supercomputers, is defining the next era of computing delivering valuable insight & innovation. Join us and redefine what’s next for you.",
+        "job_type": "Full Time Work",
+        "location": "Bangalore",
+        "title": "Hp enterprise  hiring fresher for software development engineer for devops | bangalore"
+    },
+    {
+        "company": "Citi",
+        "experience": "Fresher - 2 Years",
+        "id": 4,
+        "job_description": "The Applications Development Programmer Analyst is an intermediate level position responsible for participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to applications systems analysis and programming activities.",
+        "job_type": "Full Time Work",
+        "location": "Pune",
+        "title": "Citi  hiring fresher for java developer | pune"
+    },
+    {
+        "company": "Comcast",
+        "experience": "Fresher - 2 Years",
+        "id": 5,
+        "job_description": "Responsible for planning and designing new software and web applications. Completes programming and implements, tests and debugs defined software components.",
+        "job_type": "Full Time Work",
+        "location": "Chennai",
+        "title": "Comcast  hiring fresher for development engineer 1 | chennai"
+    },
+    {
+        "company": "Ptc",
+        "experience": "Not specified",
+        "id": 6,
+        "job_description": "PTC is looking for an Associate Software Analyst in Pune.",
+        "job_type": "Full Time Work",
+        "location": "Pune",
+        "title": "Ptc  hiring fresher for associate software analyst | pune"
+    },
+    {
+        "company": "Accenture",
+        "experience": "Fresher - 1 year",
+        "id": 7,
+        "job_description": "Go beyond processing purchase orders at lower costs to help clients reap savings and value from the billions they spend on the goods and services that run their day-to-day business operations. You will be working as a part of Procurement management team which uses a systematic approach for buying all the goods and services needed for a company to stay sustainable.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Accenture  hiring fresher for new associate | chennai"
+    },
+    {
+        "company": "Wipro",
+        "experience": "Fresher",
+        "id": 8,
+        "job_description": "Hiring for Loan Syndication/ Freshers/ Graduates",
+        "job_type": "Full Time Work",
+        "location": "Bengaluru",
+        "title": "Wipro  hiring fresher for associate analyst | bengaluru"
+    },
+    {
+        "company": "Analog devices",
+        "experience": "Fresher - 1 Year",
+        "id": 9,
+        "job_description": "This position requires flexibility in working hours to allow for communication and team participation with Global ADI Procurement Team. Buyer acts as point of contact for Procurement related assistance for our offices across ADI-Maxim. Buyer is also expected to work with ADI FAB & Corp functions to assist them in various projects & cost reduction activities.",
+        "job_type": "Full Time",
+        "location": "Gandhinagar",
+        "title": "Analog devices  hiring fresher for associate | gandhinagar"
+    },
+    {
+        "company": "Amazon",
+        "experience": "Fresher - 2 Years",
+        "id": 10,
+        "job_description": "The Global Catalog Operations team at Amazon is looking for highly motivated and talented candidates to participate in auditing and correcting the data in our retail catalog. The ideal candidate must demonstrate strong analytical & communication skills, attention to details, and a commitment to excellence. In addition, the candidate must be proficient in written and verbal English.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Amazon  hiring fresher for catalog assistant | bangalore"
+    },
+    {
+        "company": "Dupont",
+        "experience": "Not specified",
+        "id": 11,
+        "job_description": "Our purpose is to empower the world with essential innovations to thrive. We work on things that matter! Have the Opportunity to chart your own course, challenge yourself, and acquire new capabilities to build a rewarding and fulfilling career. We reward employees with competitive pay and incentives to recognize skills, competencies, and contributions to business results.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Dupont  hiring fresher for process associate( contractual 1 year) | hyderabad"
+    },
+    {
+        "company": "Zoho",
+        "experience": "Not specified",
+        "id": 12,
+        "job_description": "Looking for a proactive, excited, and talented product designer with proven",
+        "job_type": "Full Time",
+        "location": "Chennai/Salem/ Coimbatore/Tirunelveli/Madurai",
+        "title": "Zoho  hiring fresher for qa engineers | chennai/salem/ coimbatore/tirunelveli/madurai"
+    },
+    {
+        "company": "Tcs nqt",
+        "experience": "Not specified",
+        "id": 13,
+        "job_description": "TCS National Qualifier Test (TCS NQT) is an Ability Test that assesses a candidate’s competencies and skills. Each candidate who completes the TCS National Qualifier Test (TCS NQT) gets a TCS NQT Score. The TCS NQT - Cognitive Score is applicable for all industries and job roles. The TCS National Qualifier Test (TCS NQT) is planned to be conducted every 2-4 weeks and can only be taken at TCS iON Authorised Exam Centres. Candidates can take the tests again to improve their previous scores, if desired.",
+        "job_type": "Full Time",
+        "location": "PAN India",
+        "title": "Tcs nqt  hiring fresher"
+    },
+    {
+        "company": "Eclerx",
+        "experience": "Fresher",
+        "id": 14,
+        "job_description": "The ideal candidate must possess strong communication skills, with an ability to listen to and comprehend information and share it with all the key stakeholders, highlighting opportunities for improvement and concerns, if any. He/she must be able to work collaboratively with teams to execute tasks within defined timeframes while maintaining high-quality standards and superior service levels. The ability to take proactive actions and willingness to take up responsibility beyond the assigned work area is a plus.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Eclerx  hiring fresher for analyst | pune"
+    },
+    {
+        "company": "Amazon",
+        "experience": "Fresher",
+        "id": 15,
+        "job_description": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions, produce accurate test results meeting daily targets, and adhere to defined processes.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Amazon  hiring fresher for device associate | chennai"
+    },
+    {
+        "company": "Myntra",
+        "experience": "Not specified",
+        "id": 16,
+        "job_description": "During your internship with us, you will get the opportunity to work with the best talent in the e-commerce industry and work on projects that match your interests, abilities and could lead to full-time employment with Myntra.",
+        "job_type": "Full Time",
+        "location": "Bengaluru",
+        "title": "Myntra  hiring for associate  | bengaluru"
+    },
+    {
+        "company": "Kyndryl",
+        "experience": "Not specified",
+        "id": 17,
+        "job_description": "We are looking for friendly, helpful, and empathetic people who have an interest in technology but not necessarily tech",
+        "job_type": "Full Time",
+        "location": "Remote/Bangalore",
+        "title": "Kyndryl  hiring fresher for customer service representative | remote / bangalore"
+    },
+    {
+        "company": "Thermo fisher",
+        "experience": "Fresher",
+        "id": 18,
+        "job_description": "We are looking for passionate Software Interns to design, develop, test and provide software solutions for TR Tax & Accounting business. The responsibilities for Software Interns include understand user requirements, defining system functionality and writing code in various programming languages. Ultimately, the role of the Software Intern is to help build high-quality, innovative, and fully performing software that complies with coding standards and technical design.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Thermo fisher  hiring fresher for technology intern | hyderabad"
+    },
+    {
+        "company": "Accenture",
+        "experience": "Fresher - 2 years",
+        "id": 19,
+        "job_description": "Act as the ongoing interface between the client and the system or application. Dedicated to quality, using exceptional communication skills to keep our world class systems running. Can accurately define a client issue and can interpret and design a resolution based on deep product knowledge.",
+        "job_type": "Full-Time",
+        "location": "Bengaluru",
+        "title": "Accenture  hiring fresher for application tech support practitioner | bengaluru"
+    },
+    {
+        "company": "Stripe",
+        "experience": "Fresher",
+        "id": 20,
+        "job_description": "As a company, we believe in end-to-end ownership of projects. For any given project, we have one person on point. While they don’t necessarily have to do all the work themselves, it’s their job to make sure all the work gets done. We launch betas and prototypes as early as we can. This helps ensure that we’re building what users actually want.",
+        "job_type": "Full Time",
+        "location": "Bengaluru",
+        "title": "Stripe  hiring fresher for software engineer | bengaluru"
+    },
+    {
+        "company": "Astrazeneca",
+        "experience": "Fresher - 1 Year",
+        "id": 21,
+        "job_description": "Join us at AstraZeneca, a world-leading Pharmaceutical company operating in over 100 countries, as an Associate Engineer. This role is a part of our large infrastructure support and maintenance function, spanning several continents. If you have basic knowledge of Windows Infrastructure and excellent communication skills, this could be the perfect opportunity for you.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Astrazeneca hiring fresher for associate engineer | chennai"
+    },
+    {
+        "company": "Nvidia",
+        "experience": "Fresher",
+        "id": 22,
+        "job_description": "In this role you will solve critical problems working alongside an outstanding engineering team with vision in Compiler technology and systems software, doing what you enjoy! Our compiler organisation makes its mark on every CPU, GPU, DPU and SoC product that NVIDIA builds.",
+        "job_type": "Full Time",
+        "location": "Pune / Bengaluru",
+        "title": "Nvidia  hiring fresher for cpu compiler intern | pune / bengaluru"
+    },
+    {
+        "company": "Hp enterprise",
+        "experience": "Not specified",
+        "id": 23,
+        "job_description": "Executes operational activities related to quote, price, configuration, deal registration, order management process, invoicing, and contract life-cycle management to ensure that sales orders are successfully completed from quote to delivery and credited appropriately assigned for sales compensation. Produces deal documentation and configures systems to reflect ordering processes. Generates invoices and client billing in accordance with service and product agreements.",
+        "job_type": "Full Time Work",
+        "location": "Chennai",
+        "title": "Hp enterprise  hiring fresher for sales processing analyst | chennai"
+    },
+    {
+        "company": "Hcl",
+        "experience": "Freshers",
+        "id": 24,
+        "job_description": "HCL Tech - International Voice process for banking sector (FRESHERS)- Aug 26 & 27th 2024. HCL is hiring candidates who are passionate to work in an international voice process for a renowned banking process.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Hcl  hiring fresher for international voice process | chennai"
+    },
+    {
+        "company": "Lowe&#8217;s",
+        "experience": "Fresher - 2 Years",
+        "id": 25,
+        "job_description": "As an Associate Analyst 3D Creative you will work closely with our SSC-M Project lead to create stunning visual assets for our Stores. This is an excellent opportunity for someone with a passion for 3D design to gain hands-on",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Lowe&#8217;s  hiring fresher for associate analyst 3d creative | bengaluru"
+    },
+    {
+        "company": "Ey",
+        "experience": "Fresher - 1 year",
+        "id": 26,
+        "job_description": "We’re looking for individuals with knowledge and understanding of accounting and assurance concepts. The incumbent gets an excellent opportunity to work virtually or directly with the engagement teams across Americas and Europe and develop knowledge of international accounting and assurance principles.",
+        "job_type": "Full Time Work",
+        "location": "Kolkata",
+        "title": "Ey  hiring fresher for new core audit staff | kolkata"
+    },
+    {
+        "company": "Siemens",
+        "experience": "Fresher - 2 Years",
+        "id": 27,
+        "job_description": "We work with a strongly integrated system and a highly automated systems to build smart infra. We deliver maximum value to the business by digitalization using our entrepreneurial approach, and we support our customers’ current and future business requirements with the help of our high level of process and automation competency.",
+        "job_type": "Full Time",
+        "location": "Bengaluru",
+        "title": "Siemens  hiring fresher trainee | bengaluru"
+    },
+    {
+        "company": "Avalara",
+        "experience": "Not specified",
+        "id": 28,
+        "job_description": "Business License Associate Analysts are responsible to handle registrations, filings for all requested licenses, at all levels of government. The current opening focuses on state level sales tax registrations, primarily done online. This position requires the ability to learn quickly to start working independently in a fast-paced, dynamic environment where attention to detail, analytical skills and strong communication skills are essential.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Avalara  hiring fresher for associate analyst | pune"
+    },
+    {
+        "company": "Tech mahindra",
+        "experience": "Not specified",
+        "id": 29,
+        "job_description": "Tech Mahindra Off Campus Hiring Fresher For Customer Support Executive in Ambattur, Chennai",
+        "job_type": "Full Time",
+        "location": "Ambattur, Chennai",
+        "title": "Tech mahindra  hiring fresher for customer support executive | ambattur, chennai"
+    },
+    {
+        "company": "Phonepe",
+        "experience": "Not specified",
+        "id": 30,
+        "job_description": "We are looking for specialists for the Inhouse Customer",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Phonepe  hiring fresher for abt advisor | bangalore"
+    },
+    {
+        "company": "Oracle",
+        "experience": "Fresher - 2 Years",
+        "id": 31,
+        "job_description": "Oracle is looking for associate test automation engineer in Bangalore.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Oracle  hiring fresher for associate test automation engineer | bangalore"
+    },
+    {
+        "company": "Jpmorgan chase &amp; co",
+        "experience": "Not specified",
+        "id": 32,
+        "job_description": "Welcome to JP Morgan Chase. Are you a compliance specialist, passionate about risk mitigation and safeguarding the financial institutions and customers from the financial crime ? You have found the right team. As part of Employee Compliance, you are at the center of keeping JPMorgan Chase strong and resilient. You help the firm grow its business in a responsible way by anticipating new and emerging risks, and using your expert judgement to solve real-world challenges that impact our company, customers and communities.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Jpmorgan chase &amp; co hiring fresher for employee conduct specialist iii | hyderabad"
+    },
+    {
+        "company": "Dhl",
+        "experience": "Fresher - 3 Years",
+        "id": 33,
+        "job_description": "In this role, you will have the opportunity to provide top-notch service within the Ocean Freight (OFR) Service line, supporting our DGFF regions and countries globally. The role involves training to proficiently execute various activities, including shipment creation and enrichment, document upload, CONSOL enrichment, transport booking, sending shipping instructions, security filing, verifying draft MBL (Master Bill of Lading), tracking and updating milestones, handling inbound consols, managing carrier release milestones, notifying customers/brokers, preparing sailing schedules and gateway consols, sending discharge note documents, offering agent solution support, and validating routing for detention and demurrage storage.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Dhl  hiring fresher for associate &#8211; ofr | chennai"
+    },
+    {
+        "company": "Bny mellon",
+        "experience": "Not specified",
+        "id": 34,
+        "job_description": "Middle Office - IC1Responsible for processing, monitoring, researching and analyzing transactions and resolving non-complex inquiries. May coordinate with both internal stakeholders and external stakeholders and/or clients to gather, disseminate, and resolve basic information about transactions. With guidance, conducts research to gather information on non-complex transactions and data-related, straightforward inquiries.",
+        "job_type": "Full Time",
+        "location": "Chennai / Pune",
+        "title": "Bny mellon  hiring fresher for associate  | chennai / pune"
+    },
+    {
+        "company": "Genpact",
+        "experience": "Freshers",
+        "id": 35,
+        "job_description": "We are inviting applications for the role of Process Associate- Claims Assessor . To assess claims products to ensure that benefit spend is in accordance with the policies and rules relevant to our members’ policies and contracted agreements with providers of Healthcare.",
+        "job_type": "Full Time",
+        "location": "Lucknow",
+        "title": "Genpact  hiring fresher process associate | lucknow"
+    },
+    {
+        "company": "Mphasis",
+        "experience": "Fresher - 2 Years",
+        "id": 36,
+        "job_description": "Mphasis Is looking Technical Support Engineer in Pune/Bangalore.",
+        "job_type": "Full Time",
+        "location": "Pune/Bangalore",
+        "title": "Mphasis  hiring fresher for technical support engineer | pune / bangalore"
+    },
+    {
+        "company": "Tata steel",
+        "experience": "Not specified",
+        "id": 37,
+        "job_description": "TATA Steel off campus hiring fresher for Research Associates in Jamshedpur.",
+        "job_type": "Full Time",
+        "location": "Jamshedpur",
+        "title": "Tata steel  hiring fresher for research associates | jamshedpur"
+    },
+    {
+        "company": "Tech mahindra",
+        "experience": "Fresher",
+        "id": 38,
+        "job_description": "Tech Mahindra is looking for Engineer & MCA Graduates in Pan india.",
+        "job_type": "Full Time",
+        "location": "Pan India",
+        "title": "Tech mahindra  hiring fresher for engineer &amp; mca graduates | pan india"
+    },
+    {
+        "company": "Cornerstone",
+        "experience": "Fresher",
+        "id": 39,
+        "job_description": "The candidate will work with the quality engineering group of Saba people cloud product. The candidate will be trained on product functionality, test automation, TestLink etc and will be working under a QE lead to contribute to the testing cycles of the product.",
+        "job_type": "Full Time",
+        "location": "Mumbai",
+        "title": "Cornerstone  hiring fresher for junior engineer | mumbai"
+    },
+    {
+        "company": "Groww",
+        "experience": "Fresher",
+        "id": 40,
+        "job_description": "Groww is looking for Intern in Bangalore.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Groww  hiring fresher for intern  | bangalore"
+    },
+    {
+        "company": "Powerschool",
+        "experience": "Fresher - 2 Years",
+        "id": 41,
+        "job_description": "This position, under the general direction of both the supervisor and manager, provides technical support for our award-winning K- 12 software systems. This position provides world class solutions-oriented technical support with a strong focus on customer service that is designed to maximum customer satisfaction.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Powerschool hiring fresher for associate technical support engineer | bangalore"
+    },
+    {
+        "company": "American express",
+        "experience": "Fresher - 2 Years",
+        "id": 42,
+        "job_description": "Key responsibilities for this role would be providing analytical support to improve data quality and accuracy of customer data, serving all the analytics needs for C360. Part of this role will be to work with platform owners, stakeholders, product analysts for defining key metrics and KPIs for measuring success of C360.",
+        "job_type": "Full Time Work",
+        "location": "Gurugram",
+        "title": "American express  hiring fresher for associate | gurugram"
+    },
+    {
+        "company": "Accenture pwd",
+        "experience": "Entry Level",
+        "id": 43,
+        "job_description": "Join our team that is developing, designing and maintaining technologies that improve the way our clients and the world works. Working in challenging and dynamic environments, using their versatility to create and support technology solutions that meet client requirements from analysis to implementation",
+        "job_type": "Full Time",
+        "location": "Bangalore, Chennai, Mumbai, Hyderabad, Pune, Kolkata, Gurugram.",
+        "title": "Accenture pwd  hiring fresher for system &amp; application services associate | pan india"
+    },
+    {
+        "company": "Accenture",
+        "experience": "Fresher - 1 Year",
+        "id": 44,
+        "job_description": "We help clients address quality and productivity issues, keep pace with customer expectations, navigate regulatory and operational pressures and ensure business sustainability by transforming their banking operations into an agile, resilient operating model.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Accenture  hiring fresher for banking operations new associate | chennai"
+    },
+    {
+        "company": "Hdfc",
+        "experience": "Fresher - 5 Years",
+        "id": 45,
+        "job_description": "HDFC Bank is one of India’s premier banks offering financial products and services to over 43 million customers. With a focus on product leadership, customer service, and operational excellence, the bank has emerged as a leading player in all business segments. Recognized as India’s Most Valuable Brand, HDFC Bank is a front runner in digital banking with a full range of innovative products and services.",
+        "job_type": "Full-Time Work",
+        "location": "Chennai",
+        "title": "Hdfc  hiring fresher for email support | chennai"
+    },
+    {
+        "company": "Trellix",
+        "experience": "Fresher",
+        "id": 46,
+        "job_description": "Extended Detection & Response (XDR) is an evolving technology that promises to offer a unified and efficient approach to detect and respond to cyber threats. As a leading XDR business, Trellix offers comprehensive cyber security solution against endpoint, data, cloud, network, and email-based threat vectors to protect its customers from emerging cyber breaches and dynamic threats.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Trellix  hiring fresher for apprentice- sdet | bangalore"
+    },
+    {
+        "company": "Morgan stanley",
+        "experience": "Not specified",
+        "id": 47,
+        "job_description": "The Asset Movement Team (AMT) Analyst will act as an extension of local branch management in the review and approval of incoming and outgoing money movement transactions. The AMT Analyst’s will work with various systems to ensure the appropriate approval of each transaction. AMT Analysts will partner with the Regional Leader and/or the Field Service Team Manager to resolve issues while processing requests. They will abide by firm and industry rules to prevent fraud, protect client’s assets and follow client instructions.",
+        "job_type": "Full Time",
+        "location": "Mumbai",
+        "title": "Morgan stanley hiring fresher for analyst | mumbai"
+    },
+    {
+        "company": "Concentrix",
+        "experience": "Fresher",
+        "id": 48,
+        "job_description": "The Representative Customer Service / Technical Support position interfaces with customers via inbound and / or outbound calls, Emails / Chats or through the Internet depending upon client requirements. This position provides customer service support / Technical Support and resolution of routine problems regarding client’s product or services.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Concentrix  hiring fresher for representative, operations | bangalore"
+    },
+    {
+        "company": "Yash technologies",
+        "experience": "Fresher - 5 Years",
+        "id": 49,
+        "job_description": "YASH Technologies Off Campus Hiring Fresher For Associate Business Analyst in Hyderabad",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Yash technologies  hiring fresher for associate business analyst | hyderabad"
+    },
+    {
+        "company": "Eurofins",
+        "experience": "Not specified",
+        "id": 50,
+        "job_description": "We are looking for a young professional who is passionate about projects / tasking to join us in Bangalore as a part of our ComLIMS Program. The ComLIMS Program (Communication and Laboratory Information Management System) consists of internally developed web applications and a range of additional services (reporting services, data services, Business Intelligence services) which allow our internal customers, the Eurofins laboratories worldwide, to sell their services offered to Eurofins customers.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Eurofins  hiring fresher for associate-it | bengaluru"
+    },
+    {
+        "company": "Societe generale",
+        "experience": "Not specified",
+        "id": 51,
+        "job_description": "Responsible for tasks related to operational risk management which would involve assessment, measurement, monitoring and management of risks including Business Continuity Management, Risk Governance, Regulatory reporting and compliance, Process & Controls Assurance and implementation of risk tools.",
+        "job_type": "Full Time Work",
+        "location": "Bangalore",
+        "title": "Societe generale  hiring fresher for analyst | bangalore"
+    },
+    {
+        "company": "Salesforce",
+        "experience": "Fresher",
+        "id": 52,
+        "job_description": "Salesforce - the leader in enterprise cloud computing and one of the top 10 places to work according to Fortune magazine - is seeking security engineers to work within Detection & Response (DnR). DnR is an intel-driven security organization that identifies, detects, and responds to security incidents, vulnerabilities, and gaps in security controls to reduce risk and impact to Salesforce, our customers, and our community.",
+        "job_type": "Full Time",
+        "location": "Hyderabad /Bangalore",
+        "title": "Salesforce  hiring fresher for security associate | hyderabad /bangalore"
+    },
+    {
+        "company": "Ey",
+        "experience": "Fresher - 2 Years",
+        "id": 53,
+        "job_description": "Associate-National-Business Consulting Risk-CBS - RM - Proj & Operations in Gurgaon",
+        "job_type": "Full Time Work",
+        "location": "Gurugram",
+        "title": "Ey  hiring fresher for associate | gurugram"
+    },
+    {
+        "company": "Phenom",
+        "experience": "Not specified",
+        "id": 54,
+        "job_description": "Work in a high energy, crazy-fun, and agile team environment. its a fast-paced, where you will have personal accountability. We are proud to offer employees a flexible work structure, but value responsibility and hard work above all else.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Phenom  hiring fresher for software engineer | hyderabad"
+    },
+    {
+        "company": "Meesho",
+        "experience": "Not specified",
+        "id": 55,
+        "job_description": "We are looking for an",
+        "job_type": "Full Time Work",
+        "location": "Bangalore",
+        "title": "Meesho  hiring fresher for software development engineer  | bangalore"
+    },
+    {
+        "company": "Barclays",
+        "experience": "Fresher",
+        "id": 56,
+        "job_description": "To support the day-to-day operations of the risk division by monitoring the bank’s risk profile, identifying and managing risks and providing insights and expertise to support senior colleagues to make informed decisions.",
+        "job_type": "Full Time",
+        "location": "Noida",
+        "title": "Barclays  hiring fresher for analyst | noida"
+    },
+    {
+        "company": "Siemens",
+        "experience": "Fresher",
+        "id": 57,
+        "job_description": "Siemens Off Campus Hiring Fresher For Graduate Trainee Engineer in Bengaluru.",
+        "job_type": "Full Time",
+        "location": "Bengaluru",
+        "title": "Siemens  hiring fresher for graduate trainee engineer | bengaluru"
+    },
+    {
+        "company": "Micron",
+        "experience": "Fresher - 2 Years",
+        "id": 58,
+        "job_description": "As a Full Stack Software Engineer for Micron Technology, Inc. you will apply your expertise with JavaScript, Typescript, HTML, and CSS to create and develop effective user interfaces for our Engineering Information Technology (IT) department.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Micron  hiring fresher for associate software engineer | hyderabad"
+    },
+    {
+        "company": "Sharechat",
+        "experience": "Not specified",
+        "id": 59,
+        "job_description": "The Trust & Safety team is entrusted with safeguarding our users’",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Sharechat  hiring fresher for intern | bangalore"
+    },
+    {
+        "company": "Zycus",
+        "experience": "Not specified",
+        "id": 60,
+        "job_description": "Zycus is looking to hire 2023 - 24 Fresh Graduates and is organizing a Walk-In drive on 24th August 2024 at our office in Mumbai, Seepz, Andheri East. The position will be on six months contract. You will be responsible for extracting data from documents to support our source-to-pay processes. This is a great opportunity to work with a global multi-billion dollar enterprise clients and launch your procurement career with Zycus.",
+        "job_type": "Full Time",
+        "location": "Mumbai/Pune",
+        "title": "Zycus  hiring fresher analyst on contract | mumbai"
+    },
+    {
+        "company": "Atlas copco",
+        "experience": "Fresher - 5 Years",
+        "id": 61,
+        "job_description": "Atlas Copco Off Campus Hiring Fresher For Application & Proposal Engineer 1 in Pune.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Atlas copco  hiring fresher for application &amp; proposal engineer 1 | pune"
+    },
+    {
+        "company": "Hcl",
+        "experience": "Not specified",
+        "id": 62,
+        "job_description": "HCL Tech Hiring for (VOICE FRESHERS) FOR BANKING PROCESS on 21,22,23 Aug 2024",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Hcl  hiring fresher for (voice freshers) banking process | chennai"
+    },
+    {
+        "company": "Nokia",
+        "experience": "Fresher",
+        "id": 63,
+        "job_description": "Applied R&D (AR) consists of target-oriented research either with the goal of solving a particular problem / answering a specific question or for multi-discipline design, development, and implementation of hardware, software, and systems including maintenance support. Supplies techno-economic consulting to clients. AR work is characterised by its detailed and complex nature in order to systematically combine existing knowledge and practices to further developing and incrementally improving products, operational processes, and customer-specific feature development.",
+        "job_type": "Full Time",
+        "location": "India (Hybrid)",
+        "title": "Nokia  hiring fresher for associate | india (hybrid)"
+    },
+    {
+        "company": "Thermo fisher",
+        "experience": "Fresher - 2 Years",
+        "id": 64,
+        "job_description": "This position will work within the DPE (Digital Platform Engineering) group to develop and implement various enterprise initiatives and technical projects related to Fisher Scientific and Thermo Fisher Scientific ecommerce websites. The candidate will work with others on the development team to translate business requirements and technical design into well-optimized functioning code using Python and related web frameworks.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Thermo fisher  hiring fresher for  engineer i, software | bangalore"
+    },
+    {
+        "company": "Hp",
+        "experience": "Fresher - 2 Years",
+        "id": 65,
+        "job_description": "This role is responsible for executing operational processes, analyzing existing sales cycle processes, maintaining accurate documentation, and collaborating with cross-functional teams to implement enhancements. The role engages with customers to enhance satisfaction and handles critical processes like pricing analysis and invoicing. The role utilizes business applications for data analysis, ensures accuracy in deliverables, and undergoes training to enhance skills.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Hp  hiring fresher for operational process analyst | bangalore"
+    },
+    {
+        "company": "Adp",
+        "experience": "Fresher",
+        "id": 66,
+        "job_description": "ADP is hiring Associate Software Engineer.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Adp  hiring fresher for associate software engineer | chennai"
+    },
+    {
+        "company": "Microsoft",
+        "experience": "Fresher",
+        "id": 67,
+        "job_description": "At Microsoft, Interns work on real-world projects in collaboration with teams across the world, while having fun along the way. You’ll be empowered to build community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.",
+        "job_type": "Full Time",
+        "location": "India",
+        "title": "Microsoft hiring fresher for software engineering-internship | india"
+    },
+    {
+        "company": "Ubs",
+        "experience": "Fresher",
+        "id": 68,
+        "job_description": "UBS is looking for a Intern.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Ubs  hiring fresher for intern | pune"
+    },
+    {
+        "company": "Cognizant",
+        "experience": "Fresher",
+        "id": 69,
+        "job_description": "Cognizant Off Campus Hiring Fresher For Associate in Chennai.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Cognizant  hiring fresher for associate | chennai"
+    },
+    {
+        "company": "Pfizer",
+        "experience": "Fresher - 1 year",
+        "id": 70,
+        "job_description": "As part of the business support team, you will represent your organizational unit on administrative matters recommending, interpreting, and implementing company’s internal administrative policies and procedures. Your will perform a combination of administrative tasks in various functional areas to maximize the efficiencies of businesses supported.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Pfizer  hiring fresher for junior lab data specialist | chennai"
+    },
+    {
+        "company": "Kroll",
+        "experience": "Not specified",
+        "id": 71,
+        "job_description": "Kroll is looking Analyst I in Mumbai / Hyderabad.",
+        "job_type": "Full Time",
+        "location": "Mumbai / Hyderabad",
+        "title": "Kroll  hiring fresher for analyst i | mumbai / hyderabad"
+    },
+    {
+        "company": "Phonepe",
+        "experience": "Not specified",
+        "id": 72,
+        "job_description": "We are looking for specialists for the Inhouse Customer",
+        "job_type": "Full Time",
+        "location": "Bengaluru",
+        "title": "Phonepe  hiring fresher for customer experience specialist, | bengaluru"
+    },
+    {
+        "company": "Forcepoint",
+        "experience": "Not specified",
+        "id": 73,
+        "job_description": "Plans, designs, develops and tests software systems or applications for software enhancements and new products. Includes DevOps.. (C++ / Linux / Angular / Golang / Kubernetes / Cloud AWSC++ / Linux / Angular / Golang / Kubernetes / Cloud AWS). Learns to use professional concepts with limited use and/or application of basic theories and concepts. Applies company policies and procedures to resolve routine issues.",
+        "job_type": "Full Time Work",
+        "location": "Mumbai",
+        "title": "Forcepoint  hiring fresher for software engineer i | mumbai"
+    },
+    {
+        "company": "Walmart",
+        "experience": "Not specified",
+        "id": 74,
+        "job_description": "The role is of a Software Engineer II . You will have an opportunity to develop world class application that meets and exceeds the needs of the business and the company. You will also Design and develop highly scalable business application using open stack technologies.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Walmart  hiring fresher for software engineer ii | chennai"
+    },
+    {
+        "company": "Philips",
+        "experience": "Not specified",
+        "id": 75,
+        "job_description": "Serves as the customer proxy allocated to work with the agile team(s), serves as the customer proxy allocated to work with the agile team(s), ensuring the quality and the delivery of the business critical and priority features to meet customer expectations across program increments.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Philips  hiring fresher for product owner i | bangalore"
+    },
+    {
+        "company": "Tata steel",
+        "experience": "Not specified",
+        "id": 76,
+        "job_description": "Tata Steel is seeking applications from interested candidates for the position of Engineer Trainee in the areas of Mining, Mineral, Electrical, Mechanical, Geology , Geophysics ,Remote Sensing and Geoinformatics for Raw Material",
+        "job_type": "Full Time",
+        "location": "PAN India",
+        "title": "Tata steel  hiring for engineer trainee | pan india"
+    },
+    {
+        "company": "Qualcomm",
+        "experience": "Not specified",
+        "id": 77,
+        "job_description": "Qualcomm is looking for Associate Engineer in Hyderabad",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Qualcomm  hiring fresher for associate engineer | hyderabad"
+    },
+    {
+        "company": "Cornerstone",
+        "experience": "Fresher",
+        "id": 78,
+        "job_description": "Cornerstone is looking Associate Software engineer.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Cornerstone  hiring fresher for associate software engineer | hyderabad"
+    },
+    {
+        "company": "Cognizant",
+        "experience": "Not specified",
+        "id": 79,
+        "job_description": "Programmer Analyst Trainee (PAT) will be responsible for providing technical support and contributing to software development projects, offering a supportive environment that encourages growth and collaboration.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Cognizant  hiring fresher for programmer analyst trainee | chennai"
+    },
+    {
+        "company": "Tata communications",
+        "experience": "Fresher",
+        "id": 80,
+        "job_description": "The role is responsible for software development /testing/deployment/debugging process. This is an operational role that may seek appropriate level of guidance and advice to ensure delivery of quality outcomes.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Tata communications  hiring fresher for engineer &#8211; software &amp; application development | pune"
+    },
+    {
+        "company": "Jpmorgan chase &amp; co",
+        "experience": "Not specified",
+        "id": 81,
+        "job_description": "The Centralized Research Group (CRG) collaborates closely with the firm’s Global Investment Banking (GIB), Global Corporate Banking (GCB) and Commercial Banking (CB) teams offering customized financial solutions across Mergers & Acquisitions, Equity / Debt capital raising, Credit, Treasury, Cash Management, Trade, and Markets, among others.",
+        "job_type": "Full Time",
+        "location": "Mumbai",
+        "title": "Jpmorgan chase &amp; co  hiring fresher for junior analyst | mumbai"
+    },
+    {
+        "company": "Wipro",
+        "experience": "Fresher",
+        "id": 82,
+        "job_description": "Wipro is looking for a Software Engineer in Bengaluru.",
+        "job_type": "Full Time Work",
+        "location": "Bengaluru",
+        "title": "Wipro  hiring fresher for software engineer | bengaluru"
+    },
+    {
+        "company": "Indigo",
+        "experience": "Not specified",
+        "id": 83,
+        "job_description": "This position is responsible for efficient handling of outbound (domestic / international CarGo) from the station and handling of inbound CarGo arriving at the station.",
+        "job_type": "Full Time",
+        "location": "Mumbai",
+        "title": "Indigo  hiring fresher for executive | mumbai"
+    },
+    {
+        "company": "Ibm",
+        "experience": "Fresher",
+        "id": 84,
+        "job_description": "In this role, you’ll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology.",
+        "job_type": "Full Time Work",
+        "location": "Bangalore",
+        "title": "Ibm  hiring fresher for data engineer | bangalore"
+    },
+    {
+        "company": "Henkel",
+        "experience": "Fresher",
+        "id": 85,
+        "job_description": "At Henkel, you can build on a strong legacy and leading positions in both industrial and consumer businesses to reimagine and improve life every day. If you love challenging the status quo, join our community of over 47.000 pioneers around the globe. Our teams at Henkel Adhesive Technologies help to transform entire industries and provide our customers with a competitive advantage through adhesives, sealants and functional coatings. With our trusted brands, our cutting-edge technologies and our disruptive solutions, you will have countless opportunities to explore new paths and develop your skills. Grow within our future-led businesses, our diverse and vibrant culture and find a place where you simply belong. All to leave your mark for more sustainable growth.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Henkel  hiring fresher for graduate engineer trainee | pune"
+    },
+    {
+        "company": "Microchip",
+        "experience": "Fresher - 3 Years",
+        "id": 86,
+        "job_description": "Are you looking for a unique opportunity to be a part of something great? Want to join a 20,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology, Inc.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Microchip  hiring fresher for software engineer | chennai"
+    },
+    {
+        "company": "Clarivate",
+        "experience": "Not specified",
+        "id": 87,
+        "job_description": "We are looking for an Associate Research Analyst to join our CompuMark team in Hyderabad. This is an amazing opportunity to work & enhance your understanding on Trademarks. The team consists of 50+ colleagues and is reporting to the Team Leader. We have a great skill set in analyzing trademarks and we would love to speak with you if you are good in analytics, attention to details, market research, web search with keywords.",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Clarivate  hiring fresher for associate search analyst | hyderabad"
+    },
+    {
+        "company": "Tcs bps",
+        "experience": "Not specified",
+        "id": 88,
+        "job_description": "TCS BPS is opening its gates for Arts and Commerce graduates from 2025 graduating batch to apply for exciting entry level career opportunities. You can be part of TCS’ fastest growing units - in various enriching roles that will amplify your career growth. Register for the upcoming TCS BPS Hiring before 11 th September 2024 (Wednesday).",
+        "job_type": "Full Time",
+        "location": "Hyderabad",
+        "title": "Tcs bps hiring fresher"
+    },
+    {
+        "company": "Mastercard",
+        "experience": "Fresher",
+        "id": 89,
+        "job_description": "Software Engineer I in Test (Automation Testing, Java)",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Mastercard  hiring for software engineer | pune"
+    },
+    {
+        "company": "Hp",
+        "experience": "Fresher - 2 Years",
+        "id": 90,
+        "job_description": "This role is responsible for executing operational processes, analyzing existing sales cycle processes, maintaining accurate documentation, and collaborating with cross-functional teams to implement enhancements. The role engages with customers to enhance satisfaction and handles critical processes like pricing analysis and invoicing. The role utilizes business applications for data analysis, ensures accuracy in deliverables, and undergoes training to enhance skills.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Hp  hiring fresher for operational process analyst | bangalore"
+    },
+    {
+        "company": "Eaton",
+        "experience": "Fresher - 1 year",
+        "id": 91,
+        "job_description": "If you desire to be part of something special, to be part of a winning team, to be part of a fun team - winning is fun. We are looking forward to hire Associate Engineer - Product Design in Pune , India . In Eaton, making our work exciting, engaging, meaningful; ensuring safety, health, wellness; and being a model of inclusion & diversity are already embedded in who we are - it’s in our values, part of our vision, and our clearly defined aspirational goals.",
+        "job_type": "Full Time Work",
+        "location": "Pune",
+        "title": "Eaton  hiring fresher for associate engineer | pune"
+    },
+    {
+        "company": "Accenture",
+        "experience": "Not specified",
+        "id": 92,
+        "job_description": "You will be aligned with our Life Sciences R&D vertical. Our services span across the entire life sciences enterprise, from research laboratories, clinical trials support, and regulatory services, to pharmacovigilance and patient services solutions.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Accenture  hiring fresher for business advisory associate | chennai"
+    },
+    {
+        "company": "Iqvia",
+        "experience": "Fresher - 1 Year",
+        "id": 93,
+        "job_description": "Assists with the design/development of software solutions requiring general domain knowledge and limited business expertise. Troubleshoots code issues and continuously evolves IQVIA’s platforms to meet user requirements/needs.",
+        "job_type": "Full Time",
+        "location": "Bangalore",
+        "title": "Iqvia  hiring fresher for associate software developer | bangalore"
+    },
+    {
+        "company": "Citi",
+        "experience": "Fresher - 2 Years",
+        "id": 94,
+        "job_description": "The Spec Analytics Analyst is a developing professional role. Applies specialty area knowledge in monitoring, assessing, analyzing and/or evaluating processes and data. Identifies policy gaps and formulates policies. Interprets data and makes recommendations. Researches and interprets factual information. Identifies inconsistencies in data or results, defines business issues and formulates recommendations on policies, procedures or practices.",
+        "job_type": "Full Time Work",
+        "location": "Bengaluru",
+        "title": "Citi  hiring fresher for spec analytics analyst | bengaluru"
+    },
+    {
+        "company": "Qualys",
+        "experience": "Not specified",
+        "id": 95,
+        "job_description": "The Network Automation Engineer will be responsible for developing automation, deployment and optimizing various network components deployed world-wide and will be working closely with Development/Engineering, DBRE, system admin, SRE, Support teams to provide 24×7 Support for Qualys production applications.",
+        "job_type": "Full Time",
+        "location": "Pune",
+        "title": "Qualys  hiring fresher for network engineer | pune"
+    },
+    {
+        "company": "Flex",
+        "experience": "Fresher - 1 Year",
+        "id": 96,
+        "job_description": "To support our extraordinary teams who build great products and contribute to our growth, we’re looking to add Analyst - Accounts Payable in Chennai.",
+        "job_type": "Full Time",
+        "location": "Chennai",
+        "title": "Flex  hiring fresher for analyst- accounts payable | chennai"
+    },
+    {
+        "company": "Gartner",
+        "experience": "Fresher - 1 Year",
+        "id": 97,
+        "job_description": "The IT End User Service Operations Team is part of Gartner Technology Services (GTS) and sits within the Client Services Organization. IT End User Service Ops partners closely with the service team leadership to continually drive efficiency & effectiveness gains while taking steps to ensure the IT End User organization is continually working towards the vision of fostering a people-centric culture and high performing teams.",
+        "job_type": "Full Time",
+        "location": "Gurgaon",
+        "title": "Gartner  hiring fresher for associate data analyst  | gurgaon"
+    },
+    {
+        "company": "Bentley",
+        "experience": "Not specified",
+        "id": 98,
+        "job_description": "Bentley is actively seeking an Associate Software Quality Analyst within the Twin Sight Group. In this role, you’ll play a crucial part in ensuring the quality and reliability of our Tower Products. If you’re passionate about maintaining high standards and contributing to cutting-edge technology, we’d love to have you on board!",
+        "job_type": "Full Time",
+        "location": "Kolkata",
+        "title": "Bentley  hiring fresher for associate software quality analyst | kolkata"
+    },
+    {
+        "company": "Zoho",
+        "experience": "Fresher",
+        "id": 99,
+        "job_description": "We are seeking a dedicated Technical Support Engineer who will be responsible for providing exceptional support to our clients. You will troubleshoot issues, provide timely resolutions, and ensure a seamless",
+        "job_type": "Full Time",
+        "location": "Chennai / Salem / Coimbatore / Tirunelveli / Madurai",
+        "title": "Zoho  hiring fresher for technical support engineer | chennai / salem / coimbatore / tirunelveli / madurai"
+    },
+    {
+        "company": "Alight",
+        "experience": "Fresher - 2 Years",
+        "id": 100,
+        "job_description": "An associate is responsible for ensuring we deliver timely and accurate information to all participants. Associate should identify process improvements by identifying issues, process delays, and quality problems and recommend solutions. Should work with the Leads and others to resolve participant issues.",
+        "job_type": "Full Time",
+        "location": "Kochi",
+        "title": "Alight  hiring fresher for associate | kochi"
+    }
+]
